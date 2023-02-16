@@ -1,0 +1,10 @@
+/.idea/
+/target/
+/src/database/
+/src/main/resources/tests_coverage/
+/logs/
+/StudentsSerTestList.ser
+/tests_serialization.ser
+/tableFromTest.txt
+/tableFromTest
+
